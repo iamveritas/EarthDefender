@@ -99,7 +99,7 @@ defender.start(
         console.log('move['+i+']='+moves[i]);
       }
       console.log('paddle_y=' + paddle_y + ', paddle=' + paddle);
-		}
+	}
     console.log('-- End of round ----------------------------------');      
 	
     return moves;
